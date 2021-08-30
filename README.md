@@ -19,6 +19,7 @@
 
 I work on a handful of open-source projects to learn more about computer science, and just for fun.
 
+- [Nimiq](https://nimiq.com) [2.0](https://github.com/nimiq/core-rs-albatross), a web-native payment protocol, and the easiest way to use crypto.
 - [mkw](https://github.com/riidefi/mkw)
 - [ppc750cl](https://github.com/terorie/ppc750cl), binary analysis tooling Wii games. (work in progress)
 - [od2/hive](https://github.com/od2/hive), a framework for distributed & crowd-sourced web scraping. (work in progress)
