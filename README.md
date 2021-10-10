@@ -3,7 +3,7 @@
     <strong>Hi, I'm Richard. :wave:</strong>
   </p>
   <a href="https://blockdaemon.com"><img src="https://badgen.net/badge/currently%20at/Blockdaemon/purple" /></a>
-  <img src="https://badgen.net/badge/code%20quality/A/green" />
+  <img src="https://badgen.net/badge/code%20quality/alright%20i%20guess/green" />
   <img src="https://badgen.net/badge/programming%20socks/*on*/pink" />
 </div>
 
