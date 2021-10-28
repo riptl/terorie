@@ -2,7 +2,7 @@
   <p>
     <strong>Hi, I'm Richard. :wave:</strong>
   </p>
-  <a href="https://blockdaemon.com"><img src="https://badgen.net/badge/currently%20at/Blockdaemon/purple" /></a>
+  <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a>
 </div>
 
 ## Work
