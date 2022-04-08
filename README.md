@@ -10,6 +10,7 @@
 - Research Engineer at [@Blockdaemon](https://github.com/Blockdaemon).
 - Working on blockchain node infrastructure on cloud & bare-metal.
 - Building Eth2 distributed validators at [Obol Network](https://obol.tech).
+- [Open source projects](./projects.md)
 
 ## Contact
 
