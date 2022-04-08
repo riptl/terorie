@@ -7,11 +7,10 @@ Closed-source work is not listed here.
 - cryptocurrencies (started 2019)
 
   - [**Solana**](https://solana.com/), a fast blockchain protocol
-    - sec research
-      - [x] [solana-programs](https://github.com/terorie/solana-programs): all Solana on-chain programs (done 2022)
-        - [ ] enable continuous updates
-      - [x] **REDACTED**
-      - [ ] bpf.sol: book on Solana program runtime internals (WIP 2022)
+    - [x] [solana-programs](https://github.com/terorie/solana-programs): all Solana on-chain programs (done 2022)
+      - [ ] enable continuous updates
+    - [x] **REDACTED**
+    - [ ] bpf.sol: book on Solana program runtime internals (WIP 2022)
 
   - [**Pyth**](https://pyth.network/), an open financial data feed
     - [x] [pyth-go](https://github.com/Blockdaemon/pyth-go): Go client library (done 2022)
