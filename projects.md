@@ -11,6 +11,7 @@ Closed-source work is not listed here.
     - [ ] enable continuous updates
   - [x] **REDACTED**
   - [ ] bpf.sol: book on Solana program runtime internals (WIP 2022)
+  - [x] [solana-accountsdb-plugin-kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka) (done 2022)
 
 - [**Pyth**](https://pyth.network/), an open financial data feed
   - [x] [pyth-go](https://github.com/Blockdaemon/pyth-go): Go client library (done 2022)
