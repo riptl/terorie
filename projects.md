@@ -32,5 +32,5 @@ Closed-source work is not listed here.
 
 ### data scraping (started 2019)
 
-  - [x] [yt comments](https://archive.org/details/yt-metadata-project): 10 billion YouTube comments
+  - [x] [yt comments](https://archive.org/details/yt-metadata-project): 10 billion YouTube comments (done 2021)
   - [ ] [hive](https://github.com/od2/hive): large scale coordination of data feeds (abandoned 2021)
